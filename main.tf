@@ -17,3 +17,4 @@ variable "instance_names" {
   default = ["jenkins","nexus", "AppServer-1", "AppServer-2", "Monitoring server"]
 }
 
+123
